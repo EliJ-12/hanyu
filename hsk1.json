@@ -1,0 +1,62 @@
+[
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "translation": "tú",
+    "hsk": 1
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "translation": "bueno",
+    "hsk": 1
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "translation": "ser/estar",
+    "hsk": 1
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "translation": "yo",
+    "hsk": 1
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "translation": "no",
+    "hsk": 1
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "translation": "uno",
+    "hsk": 1
+  },
+  {
+    "hanzi": "的",
+    "pinyin": "de",
+    "translation": "de (posesivo)",
+    "hsk": 1
+  },
+  {
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "translation": "tener",
+    "hsk": 1
+  },
+  {
+    "hanzi": "在",
+    "pinyin": "zài",
+    "translation": "estar en",
+    "hsk": 1
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "translation": "persona",
+    "hsk": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "translation": "profesor",
+    "hsk": 2
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuéshēng",
+    "translation": "estudiante",
+    "hsk": 2
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "translation": "escuela",
+    "hsk": 2
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "translation": "libro",
+    "hsk": 2
+  },
+  {
+    "hanzi": "吃饭",
+    "pinyin": "chīfàn",
+    "translation": "comer",
+    "hsk": 2
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "translation": "beber",
+    "hsk": 2
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "translation": "agua",
+    "hsk": 2
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "translation": "hogar",
+    "hsk": 2
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "translation": "mamá",
+    "hsk": 2
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "translation": "papá",
+    "hsk": 2
+  }
+]
