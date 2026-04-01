@@ -12,6 +12,10 @@
 <body>
   <div class="container">
     <h1>Hanyu Daily</h1>
+    <div class="nav-buttons">
+      <button id="daily-btn" class="nav-btn active">Daily Word</button>
+      <button id="list-btn" class="nav-btn">Vocabulary List</button>
+    </div>
     <div class="filter">
       <label for="hsk-select">HSK Level:</label>
       <select id="hsk-select">
@@ -21,13 +25,25 @@
         <option value="4">4</option>
       </select>
     </div>
-    <div class="word-card">
-      <div id="pinyin" class="pinyin"></div>
-      <div id="hanzi" class="hanzi"></div>
-      <div id="translation" class="translation"></div>
-      <div id="hsk-level" class="hsk-level"></div>
+    
+    <!-- Daily Word View -->
+    <div id="daily-view" class="view">
+      <div class="word-card">
+        <div id="pinyin" class="pinyin"></div>
+        <div id="hanzi" class="hanzi"></div>
+        <div id="translation" class="translation"></div>
+        <div id="hsk-level" class="hsk-level"></div>
+      </div>
+      <button id="next-btn">Next Word</button>
     </div>
-    <button id="next-btn">Next Word</button>
+    
+    <!-- Vocabulary List View -->
+    <div id="list-view" class="view hidden">
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="Search word...">
+      </div>
+      <div id="vocab-list" class="vocab-list"></div>
+    </div>
   </div>
   <script src="script.js"></script>
 </body>
